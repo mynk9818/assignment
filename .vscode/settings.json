@@ -1,0 +1,14 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": true
+    },
+    "cSpell.words": [
+        "Chucker",
+        "flutterfire",
+        "LTRB",
+        "mipmap",
+        "noti"
+    ],
+    "dart.lineLength": 150,
+}
